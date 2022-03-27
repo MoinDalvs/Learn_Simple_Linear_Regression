@@ -7,6 +7,8 @@
 ### Mean Squared Error (MSE)
 ### Root Mean Squared Error (RMSE)
 ## WC-AT example
+![image](https://user-images.githubusercontent.com/99672298/160271715-8dcf4f03-d115-4b10-babd-910401a267c9.png)
+
 ### Creating model with SKLearn
 ### Model Validation
 ### Model with Statsmodels
